@@ -4,7 +4,7 @@
 # In[1]:
 
 
-import matplotlib as plt
+import matplotlib.plyplot as plt
 import seaborn as sns
 
 
